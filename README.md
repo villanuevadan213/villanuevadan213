@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan Louie Villanueva</h1>
-<h3 align="center">Programmer with 5+ years of experience in software development. Skilled in multiple programming languages, eager to take on new challenges, and open to roles that offer opportunities to learn and grow.</h3>
+<h3 align="center">Programmer with 5+ years of experience in web development. Skilled in multiple programming languages, eager to take on new challenges, and open to roles that offer opportunities to learn and grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=villanuevadan213&label=Profile%20views&color=0e75b6&style=flat" alt="villanuevadan213" /> </p>
 
